@@ -1,5 +1,5 @@
 body {
-   background-color: #FFFFEG; /* Warna kuning cerah */
+   background-color: #rgb(88, 255, 255); /* Warna biru cerah */
    font-family: Arial, sans-serif; /* Jenis huruf bersih dan mudah dibaca */
   color: rgb(88, 255, 255); /* Warna teks utama (biru cerah) */
 }
@@ -17,6 +17,8 @@ body {
 
 .kartu-profil img {
   width: 150px;
+   height: 150px;
+   object-fit: cover;
   border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 
