@@ -1,7 +1,7 @@
 body {
-   background-color: #FFFFEG; /Warna kuning cerah */
+   background-color: #FFFFEG; /* Warna kuning cerah */
    font-family: Arial, sans-serif; /* Jenis huruf bersih dan mudah dibaca */
-  color: rgb(88, 255, 255); /* Warna teks utama (biru ceraH) */
+  color: rgb(88, 255, 255); /* Warna teks utama (biru cerah) */
 }
 
 .kartu profil {
